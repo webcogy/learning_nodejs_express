@@ -55,7 +55,7 @@ npm install body-parser
 
 #### URL 이름짓기 관습
 
-instagram.com/explore/tags/kpop
-instagram.com/explore/tags/food
-facebook.com/natgeo/photos
-facebook.com/bbc/photos
+- instagram.com/explore/tags/kpop
+- instagram.com/explore/tags/food
+- facebook.com/natgeo/photos
+- facebook.com/bbc/photos
