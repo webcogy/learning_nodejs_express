@@ -59,3 +59,9 @@ npm install body-parser
 - instagram.com/explore/tags/food
 - facebook.com/natgeo/photos
 - facebook.com/bbc/photos
+
+### 6. mongoDB 설치하기
+
+```
+npm install mongodb
+```
